@@ -6,7 +6,7 @@ import static io.restassured.http.ContentType.JSON;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 
-public class ReqresTests {
+public class LoginTests {
 
     @BeforeAll
     public static void setUp() {
